@@ -75,7 +75,7 @@ public class CcsClient {
 
     /// new: some additional instance and class members
     private static CcsClient sInstance = null;
-    private String mApiKey = "AIzaSyC_oi5v-QwyHirz_xbDzwcdcAROWrZ-xwc";
+    private String mApiKey = "AIzaSyATznJrca6YUXrtAIlcLvXQ9hf6S0jMgHI";
     private String mProjectId = null;
     private boolean mDebuggable = false;
 
@@ -152,7 +152,7 @@ public class CcsClient {
     
     private CcsClient(String projectId, String apiKey, boolean debuggable) {
         this();
-        mApiKey = "AIzaSyC_oi5v-QwyHirz_xbDzwcdcAROWrZ-xwc";
+        mApiKey = "AIzaSyATznJrca6YUXrtAIlcLvXQ9hf6S0jMgHI";
         mProjectId = projectId;
         mDebuggable = debuggable;
     }
