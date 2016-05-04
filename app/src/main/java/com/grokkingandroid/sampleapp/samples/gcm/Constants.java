@@ -20,7 +20,7 @@ public interface Constants {
     String PROJECT_ID = "147122237960"; // changed TODO
 
     String KEY_STATE = "keyState";
-    String KEY_REG_ID = "";             // Changed TODO
+    String KEY_REG_ID = "keyRegId";             // Changed TODO
     String KEY_MSG_ID = "keyMsgId";
     String KEY_ACCOUNT = "keyAccount";
     String KEY_MESSAGE_TXT = "keyMessageTxt";
